@@ -1,0 +1,2 @@
+// Napište funkci, která jako parametr přijme číslo a ověří, zda je číslo prvočíslo, nebo ne.
+// Poznámka : Prvočíslo (nebo také prvočíslo) je přirozené číslo větší než 1, které nemá jiné kladné dělitele než 1 a samo sebe.

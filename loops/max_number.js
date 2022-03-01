@@ -1,0 +1,1 @@
+// Napište pomocí cyklu for funkci max, která pro zadané pole čísel vypíše jeho největší prvek

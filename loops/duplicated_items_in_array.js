@@ -1,0 +1,1 @@
+// Napiště funkci findDup(), která pro zadané pole vrací všechny prvky, které se v daném poli opakují více než jednou.

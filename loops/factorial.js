@@ -1,0 +1,1 @@
+// Napište funkci factorial(n), která vypíše faktoriál čísla n
