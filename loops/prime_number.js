@@ -2,7 +2,7 @@
 // Poznámka : Prvočíslo (nebo také prvočíslo) je přirozené číslo větší než 1, které nemá jiné kladné dělitele než 1 a samo sebe.
 
 function isItPrimeNumber(num) {
-    for (let i = 2; i < num; i++) {
+    for (let i = 2; i < num; i++) { // Šlo by zapsat cyklus jinak, abych nemusel procházet tolik prvků?
         if (Number.isInteger(num/i)) {
             console.log(`Number ${num} is not prime number, we can divide it by number ${i}`)
             return false

@@ -13,3 +13,5 @@ function isItPalindrome(word) {
 
 console.log(isItPalindrome("ahoj"))
 console.log(isItPalindrome("aha"))
+
+// Dokážeš vymyslet i řešení i bez použití built-in funkcí JS (reverse(), joint()) pomocí vlastního cyklu?

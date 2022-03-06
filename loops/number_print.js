@@ -6,7 +6,7 @@
 // První funkce vypíše čísla pomocí cyklu for a druhá pomocí cyklu while.
 
 function printNumbers(min, max, descending) {
-  if (!descending === true) {
+  if (!descending === true) { // Lze zapsat pouze pomocí if (!descending)
     for (let i = min; i <= max; i++) {
       console.log(i);
     }
