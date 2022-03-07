@@ -7,7 +7,7 @@
 
 function getArray(min, max, descending) {
     let newArray = []
-    if (descending === false) {
+    if (descending === false) { // Lze zapsat pouze pomocí if (!descending) {}
         for (let i = min; i <= max; i++) {
             newArray.push(i);
         }

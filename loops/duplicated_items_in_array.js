@@ -14,3 +14,8 @@ function findDup(array) {
 }
 
 console.log(findDup([1, 2, 2, 2, 3, 3, 4, 4, 5]))
+
+// Dokážeš vymyslet efektivnější řešení?
+// Pro každý prvek procházíš dvě pole (firstTimers, dupArray), 
+// což přidává časovou náročnost tohoto algoritmu a může s edocílit stejného i jinak.
+// (Pomocí jiné datové struktury, než je pole).

@@ -18,3 +18,8 @@ function countLetters(word) {
 
 console.log(countLetters("ahoooj"))
 console.log(countLetters("aha"))
+
+// Dokážeš vymyslet efektivnější řešení?
+// Kdybychom se bavili o složitosti tohoto algoritmu,
+// tak musíš projít celý řetězec a pro každé písmeno voláš funkci split, která opět ten řetězec prochází,
+// aby našla všechna místa, kde tento řetězec rozdělit. Šlo by to určitě efektivněji. Např v jednom průchodu.
